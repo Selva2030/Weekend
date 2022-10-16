@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.1">
+    <testcase classname="To validating Fb New Account Creation Page" name="Entering New User Datails" time="5.944">
+        <system-out><![CDATA[Given User launch FB page...................................................passed
+When User click new Account creation button.................................passed
+When User enter "selva","nayagi","nayagi@gmail.com","nayagi@gmail.com","1234" inthe text box.passed
+And user select day , month and year in drop down...........................passed
+Then user click sign up button..............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
